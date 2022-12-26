@@ -13,7 +13,7 @@ def life():
     MySocials = {
         "Youtube": "https://www.youtube.com/c/FADEDElement"
         "GitHub": "https://github.com/FADEDElement"
-        "Showwcase": "https://www.showwcase.com/fadedelement"
+        "Showwcase": "https://fadedelement.showwcase.com/"
     }
     
 ```
