@@ -19,7 +19,7 @@ def life():
 ```
 
 
-<p style="display: flex; justify-content: space-evenly">
+<div style="display: flex; justify-content: space-evenly">
     <a href="https://www.youtube.com/c/FADEDElement?sub_confirmation=1">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIlU7rT2yf3eTxebAjR69KQ?color=ff0000&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=9e0202"/></a> 
     <a href="https://www.youtube.com/c/FADEDElement">
@@ -29,7 +29,7 @@ def life():
     <a href="https://github.com/FADEDElement?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FADEDElement?color=ff9500&style=flat&labelColor=cc7700&logo=star"/>
     </a>
-</p>
+</div>
 
 ---
 
