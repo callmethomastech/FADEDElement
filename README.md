@@ -11,6 +11,7 @@ def life():
     ContactMeAt = ["th101603@gmail.com"]
     
     MySocials = {
+        "Website": "https://fadedelement.dev"
         "Youtube": "https://www.youtube.com/c/FADEDElement"
         "GitHub": "https://github.com/FADEDElement"
         "Showwcase": "https://fadedelement.showwcase.com/"
