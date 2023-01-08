@@ -6,7 +6,7 @@ def life():
 
     MyGoals = ["Improve my programming skills", "Turn software development into a career not just a hobby"]
     MyOperatingSystem = ["Garuda Linux"]
-    Languages = ["Java", "Python", "HTML", "CSS", "MCFunction"]
+    Stacks = ["Java", "Python", "MCFunction"]
     CurrentlyLearning = ["Python"]
     ContactMeAt = ["th101603@gmail.com"]
     
