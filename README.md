@@ -37,10 +37,10 @@ def life():
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fadedelement&show_icons=true&theme=react" alt="fadedelement" /> -->
 
 <div align="center>
-    <img src="https://raw.githubusercontent.com/FADEDElement/profile-summary-cards/0-profile-details.svg" />
-    <img src="https://raw.githubusercontent.com/FADEDElement/profile-summary-cards/1-repos-per-language.svg" />
-    <img src="https://raw.githubusercontent.com/FADEDElement/profile-summary-cards/2-most-commit-language.svg" />
-    <img src="https://raw.githubusercontent.com/FADEDElement/profile-summary-cards/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/FADEDElement/profile-summary-cards/4-productive-time.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/FADEDElement/main/profile-summary-cards/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/FADEDElement/main/profile-summary-cards/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/FADEDElement/main/profile-summary-cards/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/FADEDElement/main/profile-summary-cards/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/FADEDElement/main/profile-summary-cards/4-productive-time.svg" />
 </div>
 
