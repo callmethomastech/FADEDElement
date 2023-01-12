@@ -34,4 +34,13 @@ def life():
 
 <br>
 
-<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fadedelement&show_icons=true&theme=react" alt="fadedelement" />
+<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fadedelement&show_icons=true&theme=react" alt="fadedelement" /> -->
+
+<div align="center>
+    <img src="https://raw.githubusercontent.com/FADEDElement/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/FADEDElement/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg" />
+</div>
+
