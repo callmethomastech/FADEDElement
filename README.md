@@ -34,4 +34,4 @@ def life():
 
 <br>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fadedelement&show_icons=true&theme=react" alt="fadedelement" />
+<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fadedelement&show_icons=true&theme=react" alt="fadedelement" />
