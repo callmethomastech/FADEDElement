@@ -1,18 +1,17 @@
 ```python
 
 def life():
-    print("Hello 👋, I am Thomas aka FADED Element\n")
+    print("Hello👋 I am Thomas, I enjoy programming and building cars.\n")
     print("I am a software developer hobbiest\n")
 
     MyGoals = ["Improve my programming skills", "Turn software development into a career not just a hobby"]
-    MyOperatingSystem = ["Garuda Linux", "Windows 10"]
+    MyOperatingSystem = ["Garuda Linux", "Windows 11"]
     Stacks = ["Java", "Python", "MCFunction", "Vitejs", "TailwindCSS", "Reactjs"]
     CurrentFocus = ["Python"]
     ContactMeAt = ["th101603@gmail.com"]
     
     MySocials = {
-        "Website": "https://fadedelement.dev"
-        "Youtube": "https://www.youtube.com/c/FADEDElement"
+        "Website": "https://callmethomas.tech"
         "GitHub": "https://github.com/FADEDElement"
     }
     
